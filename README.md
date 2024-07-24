@@ -1,0 +1,1 @@
+"Crime-Detection-Hotspot" suggests a platform or system focused on identifying areas or locations where crime is prevalent or actively detected. It implies a technological or data-driven approach to pinpointing crime hotspots, potentially using analytics, data visualization, or real-time monitoring to aid law enforcement or community safety efforts.
